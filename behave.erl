@@ -1,0 +1,2 @@
+-module(behave).
+-callback foo(integer()) -> atom().
